@@ -7,7 +7,7 @@ _G.SgtBain = {
 	_debug = false,
 	messages = {
 		disable_alarm = "Alarm disabled",
-		disable_cameras = "Cameras disabled",
+		disable_ai_cameras = "Cameras disabled",
 		disable_electricity = "Electricity disabled",
 		disable_laser = "Laser disabled",
 	},
