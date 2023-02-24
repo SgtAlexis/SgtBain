@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod>
+	<hooks script_path="lua/">
+		<pre hook_id="core/lib/utils/coreapp" :script_path="core.lua"/>
+		<group hook_id="lib/managers/">
+			<post :hook_id="gameplaycentralmanager" :script_path="gameplaycentralmanager.lua"/>
+			<post :hook_id="mission/missionscriptelement" :script_path="missionscriptelement.lua"/>
+		</group>
+	</hooks>
+</mod>
