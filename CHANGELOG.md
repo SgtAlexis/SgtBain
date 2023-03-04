@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.2 (unreleased)
+
+### Bug fixes
+- Fix for messages appearing sometimes in loud
+
 ## [v1.0.1 (2023-02-25)](https://github.com/SgtAlexis/SgtBain/releases/tag/v1.0.1)
 
 ### Bug fixes
