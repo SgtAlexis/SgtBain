@@ -3,8 +3,8 @@ local function on_executed(name)
 		return
 	end
 	SgtBain:Log("on_executed(" .. name .. ")")
-	if SgtBain.messages[name] then
-		local message = SgtBain.messages[name]
+	if SgtBain.messages[name] or SgtBain.aliases[name] then
+		local message = SgtBain.messages[name] or SgtBain.aliases[name] and SgtBain.messages[SgtBain.aliases[name]]
 		local count = (SgtBain.counts[name] or 0) + 1
 		local limit = SgtBain.limits[name] and SgtBain.limits[name][Global.game_settings.level_id] or 1
 		if limit == count then

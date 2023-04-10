@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.3 (unreleased)
+
+### Bug fixes
+- Fix the `Cameras disabled` message on the `Bank Heist` map
+
 ## [v1.0.2](https://github.com/SgtAlexis/SgtBain/releases/tag/v1.0.2) (2023-03-04)
 
 ### Bug fixes
