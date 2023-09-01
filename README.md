@@ -1,6 +1,8 @@
 <image src="SgtBain/image.png" align="right" width="200"/>
 
 # Sgt. Bain
+[![release](https://img.shields.io/github/v/release/SgtAlexis/SgtBain?display_name=tag)](https://github.com/SgtAlexis/SgtBain/releases/latest)
+
 A _PAYDAY 2_ mod to better inform each player about some stealth states.
 
 ## Getting started
