@@ -1,5 +1,5 @@
 local function on_executed(name)
-	if not Utils:IsInHeist() then
+	if not Utils:IsInHeist() or not managers.groupai:state():whisper_mode() then
 		return
 	end
 	SgtBain:Log("on_executed(" .. name .. ")")
