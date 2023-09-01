@@ -6,7 +6,7 @@
 	"contact": "https://github.com/SgtAlexis",
 	"blt_version": 2,
 	"supermod_definition": "supermod.xml",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"updates": [
 		{
 			"identifier": "SgtBain",
