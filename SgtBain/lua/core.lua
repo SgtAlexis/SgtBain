@@ -11,6 +11,9 @@ _G.SgtBain = {
 		disable_electricity = "Electricity disabled",
 		disable_laser = "Laser disabled",
 	},
+	aliases = {
+		turnOffCameras = "disable_ai_cameras",
+	},
 	counts = {},
 	limits = {
 		disable_laser = {
