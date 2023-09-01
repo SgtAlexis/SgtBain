@@ -15,3 +15,6 @@ You can download the latest version of _Sgt. Bain_ on the
 [release](https://github.com/SgtAlexis/SgtBain/releases/latest) page.
 
 Extract the `SgtBain.zip` file to your _PAYDAY 2_ `mods` folder.
+
+## License
+This project is licensed under the [MIT License](LICENSE.txt).
