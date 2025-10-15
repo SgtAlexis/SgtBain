@@ -1,4 +1,6 @@
-<image src="SgtBain/image.png" align="right" width="200"/>
+<p align="center">
+	<img src="SgtBain/image.png" alt="Logo" width="200"/>
+</p>
 
 # Sgt. Bain
 [![release](https://img.shields.io/github/v/release/SgtAlexis/SgtBain?display_name=tag)](https://github.com/SgtAlexis/SgtBain/releases/latest)
